@@ -12,4 +12,5 @@ local scriptUrl = ({
 
 if scriptUrl then
     loadstring(game:HttpGet(scriptUrl))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/EzydoesGithub/EzyWare/main/Credits.lua"))()
 end
