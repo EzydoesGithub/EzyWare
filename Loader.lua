@@ -17,5 +17,5 @@ wait(2)
 game.StarterGui:SetCore("SendNotification", {
 Title = "Ezy Ware";
 Text = "Provided by: Ezy \n Developer: Ezy#4811";
-Duration = 5;
-
+Duration = 5; -- how long the notification should in secounds
+})
