@@ -3,12 +3,11 @@
     Hideous I know, don't give a shit
     RegularVynixu#8039
     --------------------
-    I'm using this becuase its simple, and works...
+    I'm using this becuase its simple, and works... - Ezy
 ]]--
 
 local scriptUrl = ({
-    [606849621] = "https://raw.githubusercontent.com/RegularVynixu/Vynixius/main/Jailbreak/Script.lua",
-    --// [game id] = "raw script."
+    [10023052234] = "https://raw.githubusercontent.com/EzydoesGithub/EzyWare/main/gr.lua" --// First release, pretty proud of it although ik its shit.
 })[game.PlaceId]
 
 if scriptUrl then
