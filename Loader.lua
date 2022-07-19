@@ -7,7 +7,7 @@
 ]]--
 
 local scriptUrl = ({
-    [10023052234] = "https://raw.githubusercontent.com/EzydoesGithub/EzyWare/main/gr.lua" --// First release, pretty proud of it although ik its shit.
+    [10023052234] = "https://raw.githubusercontent.com/EzydoesGithub/EzyWare/main/Games/Gr.lua" --// First release, pretty proud of it although ik its shit.
 })[game.PlaceId]
 
 if scriptUrl then
